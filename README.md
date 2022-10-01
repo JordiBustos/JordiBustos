@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science related Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/JordiBustos](github.com/JordiBustos)
 
