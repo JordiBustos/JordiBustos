@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordi Bustos</h1>
 <h3 align="center">A Math student with 1+ year of experience as a frontend developer</h3>
 
-- 🔭 I’m currently working on **frontend dev**
+- 🔭 I’m currently working on **frontend dev** as Drupal Developer
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Math and web development**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science related Projects**
+- 👯 I’m looking to collaborate on **anything related to web development :)**
 
 - 👨‍💻 All of my projects are available at [github.com/JordiBustos](github.com/JordiBustos)
 
