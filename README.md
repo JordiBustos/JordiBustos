@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordi Bustos</h1>
 <h3 align="center">A Math student with 1+ year of experience as a frontend developer</h3>
 
-- 🔭 I’m currently working on **frontend dev** as Drupal Developer
+- 🔭 I’m currently working on **fullstack dev** as a Drupal Developer
 
 - 🌱 I’m currently learning **Math and web development**
 
