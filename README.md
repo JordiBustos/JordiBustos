@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jordi Bustos</h1>
 <h3 align="center">A Math student with 2 years of experience as a frontend developer</h3>
 
-- 🔭 I’m currently working on **fullstack dev** as a Drupal Developer
+- 🔭 Drupal Developer.
 
-- 🌱 I’m currently learning **Math and web development**
+- 🌱 Doing a Bachelor degree in pure math.
 
 - 👯 I’m looking to collaborate on **anything related to web development :)**
 
