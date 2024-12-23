@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Bustos</h1>
-<h3 align="center">A Math student with 2 years of experience as a frontend developer</h3>
+<h3 align="center">A Math student with 3 years of experience as a frontend developer</h3>
 
 - 🔭 Drupal Developer | Software Engineer.
 
