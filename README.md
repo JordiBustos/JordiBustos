@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordi Bustos</h1>
-<h3 align="center">A Math student with 3 years of experience as a frontend developer</h3>
+<h3 align="center">A Math student with 4 years of experience as a Full Stack developer</h3>
 
 - 🔭 Drupal Developer | Software Engineer.
 
 - 🌱 Doing a Bachelor degree in pure math.
 
-- 👯 I’m looking to collaborate on **anything related to web development :)**
+- 👯 I’m looking to collaborate on **anything related to finance or ML :)**
 
 - 👨‍💻 All of my projects are available at [github.com/JordiBustos](github.com/JordiBustos)
 
